@@ -6,3 +6,5 @@ Data Science Specialization
   —— [D] Exploratory Data Analysis, DQSP9UK4L9
   —— [E] Reproducible Research, ZVHSACWLP3
   —— [F] Statistical Inference, 95V5YH58Z6
+  —— [G] Regression Models, M6W4YAZGVE
+  —— [H] Practical Machine Learning, 9ZW3JDPAWJ
