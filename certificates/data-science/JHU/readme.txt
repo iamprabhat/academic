@@ -8,3 +8,5 @@ Data Science Specialization
   —— [F] Statistical Inference, 95V5YH58Z6
   —— [G] Regression Models, M6W4YAZGVE
   —— [H] Practical Machine Learning, 9ZW3JDPAWJ
+  —— [I] Developing Data Products, ZNBNLLFD3G
+  —— [J] Data Science Capstone, 4JCD5D82HNFM
