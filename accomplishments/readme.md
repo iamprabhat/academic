@@ -44,3 +44,19 @@ This Specialization covers the concepts and tools you'll need throughout the ent
 - Roger D. Peng, PhD, Associate Professor, Biostatistics,
 - Brian Caffo, PhD, Professor, Biostatistics, and
 - Jeff Leek, PhD, Associate Professor, Biostatistics.
+
+### 3. International Organizations Management
+by [University of Geneva](http://www.unige.ch/), Geneva, Switzerland.
+
+#### About the Course:
+International and not-for-profit organizations present an increasingly complex environment to work in and therefore require for their successful management an unprecedented level of managerial skills on top of a deep understanding of the socioeconomic and political context they operate in. This course is designed to provide students with (1) basic notions of the practice of international relations (2) a general overview of the management challenges international and not-for-profit organizations are faced with as well as key theoretical frameworks and practical tools for managers to excel in this environment. Key areas of management will be reviewed, from strategy setting to implementation through marketing & fund raising, and assessment. (3) Given the growing interaction between public and private sectors, this course also touches upon the management of public/private partnerships.
+
+#### Coordinated by:
+- Dr. Sebastian Buckup, Director and alumnus of World Economic Forum in Geneva, Switzerland,
+- Julian Fleet, Director, HIV/AIDS (UNAIDS),
+- Claudia Gonzalez, Head of Public Advocacy, UNICEF,
+- Cassandra Quintanilla, Communications consultant at the Global Fund to Fight AIDS, Tuberculosis and Malaria,
+- Dr. Bruce Jenks, Assistant Secretary General at UNDP,
+- Stephan Mergenthaler, Associate Director, Strategic Foresight at the World Economic Forum in Geneva,
+- Dr. Lea Stadtler is Research Fellow at the University of Geneva, DHEC, and
+- Prof. Gilbert Probst, Managing Director, Leadership Office and Academic Affairs, and Dean of the Global Leadership Fellows Program at the World Economic Forum.
