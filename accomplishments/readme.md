@@ -60,3 +60,33 @@ International and not-for-profit organizations present an increasingly complex e
 - Stephan Mergenthaler, Associate Director, Strategic Foresight at the World Economic Forum in Geneva,
 - Dr. Lea Stadtler is Research Fellow at the University of Geneva, DHEC, and
 - Prof. Gilbert Probst, Managing Director, Leadership Office and Academic Affairs, and Dean of the Global Leadership Fellows Program at the World Economic Forum.
+
+### 4. Brand Management: Aligning Business, Brand and Behaviour
+by [London Business School](http://www.london.edu/), London, England.
+
+#### About the Course:
+<b>What?</b>
+
+The aim of the course is to change the conception of brands as being an organisation's visual identity (e.g., logo) and image (customers' brand associations) to an experience along "moments-that-matter" along the customer journey and, therefore, delivered by people across the entire organisation. Brands are thus not only an external promise to customers, but a means of executing business strategy via internal brand-led behaviour and culture change.
+
+You will learn and practice the following skills:
+- How to build brands from a broad organisational perspective,
+- How to lead brand-led culture change with human resource practices at the core (i.e., brand as a lever and not just an outcome),
+- How to build brands in multi-brand companies, across cultures and geographies,
+- How to measure brand health in new ways, that is, internally in addition to externally,
+- How to value and capture returns to brands across the organisation - introducing the new concept of employee-based brand equity - and how this is different from the valuation of brands as intangible assets.
+
+<b>Who?</b>
+
+This course is designed for a broad audience of marketing and non-marketing professionals, in particular human resources and finance but extending to all employees who need to understand their critical role in delivering on the brand promise. It is also accessible to students, to complement a more traditional course on branding. This course is NOT for couch potatoes as you will be challenged to do stuff in the real world!
+
+<b>Why?</b>
+
+This course allows you to develop the following aspects of yourself:
+
+- <i>Head</i>. Gain a deeper understanding of the evolving practice of brand management, one that goes further than practiced in most organisations today,
+- <i>Heart</i>. Be motivated to engage in delivering your own brands – regardless of where you are in your organisation – thereby creating superior value for customers and for your organisation,
+- <i>Hands</i>. Translate learnings into action. As Confucius is supposed to have said: “I hear and I forget. I see and I remember. I do and I understand.”
+
+#### Creator:
+- Nader Tavassoli, Professor of Marketing.
